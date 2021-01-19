@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Jonathan
   LastName: Hardison
-  Photo: img/avatar.jpg
+  Photo: img/profile.PNG
   Contacts:
     - Icon: fas fa-phone
       Info: +1 ‪‪(417) 233-1638‬
