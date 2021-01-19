@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Jonathan Hardison"
+publishDir   = "_site"
+defaultContentLanguage = "en"
+theme = "almeida-cv"
+
+
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#9aaee3"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 2
