@@ -9,6 +9,12 @@ BasicInfo:
       Info: resume@jonathanhardison.com
     - Icon: fas fa-globe
       Info: www.JonathanHardison.com
+    - Icon: fab fa-twitter
+      Info: jhardison
+    - Icon: fab fa-linkedin-in
+      Info: jonathanhardison
+    - Icon: fab fa-github
+      Info: jmhardison
     - Icon: fas fa-map-marker-alt
       Info: Missouri, United States
 
