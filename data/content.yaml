@@ -37,6 +37,9 @@ Experience:
           - Incorporated use of Docker into enterprise message bus platform, including scripting deployment for system.
           - Technology agnostic evaluation and recommendation for Knowledge-Management in the department, based on incorporating KCS principles. Established foundation guidelines and participated on KMS Council to drive vision and adoption.
           - Designed and implemented a strategy for use of GitHub.com as an additional code repository in the enterprise.
+          - Implementation of Automated Cloud deployments using Terraform, GitHub and Actions.
+          - Created architecture references to expediate cloud approvals and adoption.
+          - Established environment requirements for successful PCI deployments in Azure as part of an ongoing Cloud Governance project.
         Badges: ['OOP', 'Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'C#', 'DevOps']
       - Title: Applications Engineer, Sr
         Date: Sep 2010 - May 2014
