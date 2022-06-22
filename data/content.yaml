@@ -38,6 +38,7 @@ Experience:
           - Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments.
           - Take part in on-call rotation for after hours support of critical financial systems environment.
         Badges: ['Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'Go', 'DevOps', 'CI/CD']
+
       - Title: Solutions Architect, Sr.
         Date: May 2014 - Jul 2022
         Details:
@@ -55,6 +56,7 @@ Experience:
           - Created architecture references to expediate cloud approvals and adoption.
           - Established environment requirements for successful PCI deployments in Azure as part of an ongoing Cloud Governance project.
         Badges: ['OOP', 'Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'C#', 'DevOps']
+
       - Title: Applications Engineer, Sr
         Date: Sep 2010 - May 2014
         Details:
@@ -63,6 +65,7 @@ Experience:
           - Worked with third parties to assist in consuming exposed API’s, knowledge, and testing for approval to sell to customer base.
           - Provided application testing procedures to identify performance issues with core integration and real time wires platforms.
         Badges: ['Middleware', 'Windows', 'Support', 'Install', 'Developer Advocate']
+
   - Employer: Computer Information Systems
     Place: Skokie, IL
     Positions:
@@ -73,6 +76,7 @@ Experience:
           - Improve maintenance of customer deployments by assisting in the creation of auto update mechanism.
           - Design, deploy, and maintain VPN and Security equipment to FIPS 140-2 requirements in order to meet FBI, CJIS, and State security requirements.
         Badges: ['Cisco', 'Windows', 'CJIS', 'Citrix']
+
   - Employer: Choice Solutions
     Place: Joplin, MO
     Positions:
@@ -85,6 +89,7 @@ Experience:
           - Improved design, implementation, and maintenance by creating standard project documentation.
           - Enhanced customer and technician systems support by developing detailed technical diagrams.
         Badges: ['Windows', 'Cisco', 'VOIP', 'Design', 'Engineering']
+
   - Employer: United States Air Force
     Place: Oklahoma City, OK
     Positions:
@@ -95,6 +100,7 @@ Experience:
           - Maintained excellent record of compliance with technical data, instructions, and work standards.
           - Assisted in evaluation of base and command sustainment programs  as member of the inspection team.
         Badges: ['Secret Security Clearance']
+
   - Employer: Omega Imaging Systems
     Place: Little Rock, AR
     Positions:
@@ -104,6 +110,7 @@ Experience:
           - Improved service by authoring troubleshooting procedures for installation and PACS system.
           - Assisted sales team by providing education on PACS designs and developing Visio designs for sales proposals.
         Badges: ['VPN', 'PACS', 'HL7', 'DICOM', 'Design', 'Engineering']
+        
 Education:
   - Course: Android Basics Nanodegree
     Place: Udacity
