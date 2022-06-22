@@ -24,8 +24,22 @@ Experience:
   - Employer: Jack Henry & Associates, Inc.
     Place: Springfield, MO
     Positions:
+      - Title: Software Engineer, Sr.
+        Date: Jul 2022 - Present
+        Details:
+          - Support and Maintan a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
+          - Support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
+          - Support of a micro-service based platform including build and deployment processes, as well as post deployment support and operations in environments.
+          - Provide operations support of a multi cloud environment including Azure, AWS, and on-premises datacenters running VMWare.
+          - Support and Maintain Artifactory environment provided as a service to multiple business units.
+          - Provide continued engineering and architecutre guidance for Azure and VMware across multiple business units.
+          - Research an enhance automation and deployment pipelines to include new technology that displaces old methods for management, and improve processes and capabilities of automation platform for full lifecycle deployment.
+          - Support and enhance slack bots used for automation, or operations tasks including writing additional code in Go.
+          - Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments.
+          - Take part in on-call rotation for after hours support of critical financial systems environment.
+        Badges: ['Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'Go', 'DevOps', 'CI/CD']
       - Title: Solutions Architect, Sr.
-        Date: May 2014 - Present
+        Date: May 2014 - Jul 2022
         Details:
           - Designed and built Azure based development environment, including building automation integration to provision subscriptions and deploy services.
           - Designed enterprise container strategy leveraging cloud native and hybrid deployment models with AKS and Docker EE with Swarm and Kubernetes.
@@ -146,4 +160,4 @@ Diplomas:
 Interests:
   - Gaming
   - Reading
-  - Camping
+  - SciFi/Fantasy
