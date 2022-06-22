@@ -38,6 +38,9 @@ Experience:
           - Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments.
           - Take part in on-call rotation for after hours support of critical financial systems environment.
         Badges: ['Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'Go', 'DevOps', 'CI/CD']
+  - Employer: Jack Henry & Associates, Inc.
+    Place: Springfield, MO
+    Positions:
       - Title: Solutions Architect, Sr.
         Date: May 2014 - Jul 2022
         Details:
@@ -55,6 +58,9 @@ Experience:
           - Created architecture references to expediate cloud approvals and adoption.
           - Established environment requirements for successful PCI deployments in Azure as part of an ongoing Cloud Governance project.
         Badges: ['OOP', 'Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'C#', 'DevOps']
+  - Employer: Jack Henry & Associates, Inc.
+    Place: Monett, MO
+    Positions:
       - Title: Applications Engineer, Sr
         Date: Sep 2010 - May 2014
         Details:
@@ -104,6 +110,7 @@ Experience:
           - Improved service by authoring troubleshooting procedures for installation and PACS system.
           - Assisted sales team by providing education on PACS designs and developing Visio designs for sales proposals.
         Badges: ['VPN', 'PACS', 'HL7', 'DICOM', 'Design', 'Engineering']
+
 Education:
   - Course: Android Basics Nanodegree
     Place: Udacity
@@ -112,8 +119,6 @@ Education:
   - Course: General Education Courses
     Place: Pima Community College / Labette Community College / Community College of the Air Force
     
-
-
 Skills:
   - Family: Programming
     Items:
