@@ -28,6 +28,7 @@ Experience:
         Date: Jul 2022 - Present
         Details:
           - Support and Maintan a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
+          - Support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
           - Support of a micro-service based platform including build and deployment processes, as well as post deployment support and operations in environments.
           - Provide operations support of a multi cloud environment including Azure, AWS, and on-premises datacenters running VMWare.
           - Support and Maintain Artifactory environment provided as a service to multiple business units.
