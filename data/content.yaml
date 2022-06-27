@@ -25,7 +25,7 @@ Experience:
     Place: Springfield, MO
     Positions:
       - Title: Software Engineer, Sr.
-        Date: Jul 2022 - Present
+        Date: Jul 2021 - Present
         Details:
           - Support and Maintan a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
           - Support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
@@ -42,7 +42,7 @@ Experience:
     Place: Springfield, MO
     Positions:
       - Title: Solutions Architect, Sr.
-        Date: May 2014 - Jul 2022
+        Date: May 2014 - Jul 2021
         Details:
           - Designed and built Azure based development environment, including building automation integration to provision subscriptions and deploy services.
           - Designed enterprise container strategy leveraging cloud native and hybrid deployment models with AKS and Docker EE with Swarm and Kubernetes.
