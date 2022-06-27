@@ -131,12 +131,13 @@ Skills:
     Items:
       - Terraform
       - Ansible
+      - Chef
       - Azure DevOps Pipelines
       - GitHub Actions
+      - Jenkins
       - Canonical MaaS
   - Family: Developer Tools
     Items:
-      - Git
       - GitHub
       - GitLab
       - Snyk
@@ -147,6 +148,7 @@ Skills:
       - AWS
       - GCP
       - Azure Stack
+      - VMware
 
 Languages:
   - Name: English
