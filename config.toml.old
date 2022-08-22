@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Jonathan Hardison"
 publishDir   = "_site"
 defaultContentLanguage = "en"
-theme = "almeida-cv"
+theme = "resume-a4"
 
 
 

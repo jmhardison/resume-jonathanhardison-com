@@ -1,0 +1,79 @@
+about:
+  name: Jonathan Hardison
+  tagline: Cloud DevOps
+  phone: "(417) 319-1395"
+  email: resume@jonathanhardison.com
+  links:
+    - title: /in/jonathanhardison
+      url: https://linkedin.com/in/jonathanhardison
+      icon: fab fa-linkedin
+    - title: jmhardison
+      url: https://gitlab.com/jmhardison/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    Success-driven IT professional skilled in the design, installation, and maintenance of system infrastructure and automation. Outstanding client relationship skills with a commitment to providing the highest level of customer service. Proven ability to work well independently with minimal supervision. History of producing quality work in fast-paced environments. Committed to ongoing professional growth. Skilled trainer and project leader; able to master innovative software and platforms while working in the bleeding-edge.
+
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - Grafana - Kibana - PowerBI
+      - InfluxDB - TICK Stack
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - R - SQL
+      - Excel - Minitab - SPSS
+      - GAMS - PuLP - OR Tools
+
+  - groupName: Programming & Systems
+    list:
+      - C# - Git - Docker - NGINX
+      - Linux - CentOS RHEL
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+languages:
+  - name: Turkish
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "YDS: 86.25 - 2018"
+      - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Supervised Learning: Regression"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "Supervised Learning: Classification"
+    subtitle: Coursera
+    date: "2020"
+    link: https://xkcd.com/388/
