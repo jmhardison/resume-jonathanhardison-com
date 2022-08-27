@@ -2,7 +2,7 @@ baseURL: "/"
 publishDir: "_site"
 languageCode: "en-us"
 defaultContentLanguage: "en"
-title: "Jonathan Hardison"
+title: "Resume - Jonathan Hardison"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 

@@ -15,6 +15,13 @@
 						{{- . -}}
 					</a>
 				{{- end -}}
+				{{- if and .phone .email .web }} | {{ end -}}
+				{{- with .web -}}
+					<a href="https://{{- . -}}" class="no-external-icon">
+						{{- if $.useFontAwesome }}<i class="fas fa-globe"></i> {{ end -}}
+						{{- . -}}
+					</a>
+				{{- end -}}
 			</span>
 		{{- end }}
 		{{ if $.Header.links -}}
