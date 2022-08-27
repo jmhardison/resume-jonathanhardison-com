@@ -18,62 +18,47 @@ about:
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Programming
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - C++, C#, NodeJS, Javascript, Unity3D
 
-  - groupName: Data Analysis & Analytics
+  - groupName: Automation
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - Terraform, Ansible, Chef, Azure DevOps, Github Actions, Jenkins, Canonical MaaS
 
-  - groupName: Programming & Systems
+  - groupName: Developer Tools
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - Github, GitLab, Snyk, Aqua
+
+  - groupName: Platforms
+    list:
+      - Azure, Azure Stack, AWS, GCP, Cloudflare, VMware vSphere, VMware vCloud Director
+
+  - groupName: Kubernetes Platforms
+    list:
+      - AKS, GKE, Anthos GKE, Anthos VMware
 
 interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - Gaming
+  - Reading
+  - Tech Tinkering
 
 languages:
-  - name: Turkish
+  - name: English
     level: Native
 
-  - name: English
-    level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
-
-# This will use the default widget: "details-list"
-awards:
-  - title: "Tübitak - Graduation Project"
-    date: "2017"
-    subtitle: "A Decision Support System for 3D Cutting Problem"
-    #details: |
-    #   - add more here if you like to.
-    #   - or just comment out/delete the field.
-    links:
-      - title: example
-        url: https://mertbakir.gitlab.io
-        icon: fas fa-bolt
-        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-      - title: second link.
-        url: https://esdfdsfdsf
-        icon: "-" # you can get rid of the icon by entering dummy text
-        prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "ITIL Foundation v3"
+  - title: "KCS Principles v5"
+  - title: "Docker Certified Associate (prior)"
+  - title: "MCSE (NT4/2000/2003) (prior)"
+  - title: "MCSA (2000/2003) (prior)"
+  - title: "CCNA (prior)"
+  - title: "CCDA (prior)"
+  - title: "ACA (prior)"
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+#  - title: "Supervised Learning: Classification"
+#    subtitle: Coursera
+#    date: "2020"
+#    link: https://xkcd.com/388/
