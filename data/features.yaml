@@ -1,0 +1,65 @@
+about:
+  name: Jonathan Hardison
+  tagline: Cloud DevOps
+  phone: "(417) 319-1395"
+  email: resume@jonathanhardison.com
+  web: jonathanhardison.com
+  links:
+    - title: /in/jonathanhardison
+      url: https://linkedin.com/in/jonathanhardison
+      icon: fab fa-linkedin
+    - title: jmhardison
+      url: https://gitlab.com/jmhardison/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    Success-driven IT professional skilled in the design, installation, and maintenance of system infrastructure and automation. Outstanding client relationship skills with a commitment to providing the highest level of customer service. Proven ability to work well independently with minimal supervision. History of producing quality work in fast-paced environments. Committed to ongoing professional growth. Skilled trainer and project leader; able to master innovative software and platforms while working in the bleeding-edge.
+
+
+skills:
+  - groupName: Programming
+    list:
+      - C++, C#, NodeJS, Javascript, Unity3D
+
+  - groupName: Automation
+    list:
+      - Terraform, Ansible, Chef, Azure DevOps, Github Actions, Jenkins, Canonical MaaS
+
+  - groupName: Developer Tools
+    list:
+      - Github, GitLab, Snyk, Aqua
+
+  - groupName: Platforms
+    list:
+      - Azure, Azure Stack, AWS, GCP, Cloudflare, VMware vSphere, VMware vCloud Director
+
+  - groupName: Kubernetes Platforms
+    list:
+      - AKS, GKE, Anthos GKE, Anthos VMware
+
+interests:
+  - Gaming
+  - Reading
+  - Tech Tinkering
+
+languages:
+  - name: English
+    level: Native
+
+
+certificates:
+  - title: "ITIL Foundation v3"
+  - title: "KCS Principles v5"
+  - title: "Docker Certified Associate (prior)"
+  - title: "MCSE (NT4/2000/2003) (prior)"
+  - title: "MCSA (2000/2003) (prior)"
+  - title: "CCNA (prior)"
+  - title: "CCDA (prior)"
+  - title: "ACA (prior)"
+
+#  - title: "Supervised Learning: Classification"
+#    subtitle: Coursera
+#    date: "2020"
+#    link: https://xkcd.com/388/

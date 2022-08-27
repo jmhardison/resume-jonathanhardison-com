@@ -1,0 +1,50 @@
+- company: Jack Henry & Associates, Inc.
+  roles:
+    - role: Solutions Architect, Sr.
+      details: "Designed and built Azure based development environment, including building automation integration to provision subscriptions and deploy services.
+          Designed enterprise container strategy leveraging cloud native and hybrid deployment models with AKS and Docker EE with Swarm and Kubernetes.
+          Developed training path and certification options for operations and engineering teams to ramp up skills on container ecosystems.
+          Captured problems and developed strategy for modern application tracing and monitoring.
+          Designed and built developer *BYOD* style wireless environment, policies, and use-guides. Developed automation integration for use in self-service registration of wireless devices.
+          Provided design and Architecture for migration of cloud architecture platform from AWS, into on-premises multi-tenant private cloud, while also forecasting and building to include increased capacity.
+          Developed and implemented AWS organization and strategy.
+          Incorporated use of Docker into enterprise message bus platform, including scripting deployment for system.
+          Technology agnostic evaluation and recommendation for Knowledge-Management in the department, based on incorporating KCS principles. Established foundation guidelines and participated on KMS Council to drive vision and adoption.
+          Designed and implemented a strategy for use of GitHub.com as an additional code repository in the enterprise.
+          Implementation of Automated Cloud deployments using Terraform, GitHub and Actions.
+          Created architecture references to expedite cloud approvals and adoption.
+          Established environment requirements for successful PCI deployments in Azure as part of an ongoing Cloud Governance project."
+      date: "May 2014 - Jul 2021"
+
+    - role: Applications Engineer, Sr.
+      details: "Wrote and administered training for new versions of the platform, including lab design and scenario testing.
+          Implemented standardized vendor testing for new third party integrator to help reduce common first time consumer mistakes, and increase customer satisfaction.
+          Worked with third parties to assist in consuming exposed API’s, knowledge, and testing for approval to sell to customer base.
+          Provided application testing procedures to identify performance issues with core integration and real time wires platforms."
+      date: "Sep 2010 - May 2014"
+
+- company: Computer Information Systems
+  roles: 
+    - role: Network Engineer
+      details: "Reduced install time of product by developing installation support through InstallShield.
+          Improve maintenance of customer deployments by assisting in the creation of auto update mechanism.
+          Design, deploy, and maintain VPN and Security equipment to FIPS 140-2 requirements in order to meet FBI, CJIS, and State security requirements."
+      date: "Jan 2007 - May 2010"
+
+
+- company: Choice Solutions
+  roles:
+    - role: Systems Engineer
+      details: "Consistently show talent for managing multiple tasks simultaneously and following through on all assignments.
+          Maintain excellent record of client satisfaction by keeping customers updated on project status, promptly resolving problems, providing after hours support, and influencing vendors to assist in superior pre- and post-sales support. 
+          Excel at designing and implementing scalable, secure, and reliable inter-networking devices.
+          Improved design, implementation, and maintenance by creating standard project documentation.
+          Enhanced customer and technician systems support by developing detailed technical diagrams."
+      date: "Jul 2004 - Jan 2007"
+
+- company: United States Air Force
+  roles:
+    - role: Network, Switching, Cryptographic Systems Apprentice (2E23)
+      details: "Demonstrated teamwork and strong problem solving, diagnostic, and analytical skills in the troubleshooting and repair of malfunctioning equipment.
+          Maintained excellent record of compliance with technical data, instructions, and work standards.
+          Assisted in evaluation of base and command sustainment programs  as member of the inspection team."
