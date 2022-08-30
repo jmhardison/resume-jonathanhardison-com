@@ -1,9 +1,9 @@
 - company: Jack Henry & Associates, Inc.
   roles:
     - role: Software Engineer, Sr.
-      details: "* Support and Maintan a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
+      details: "* Support and Maintain a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
       
-      * Support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
+      * Support and operate secondary CI/CD platforms including Azure DevOps and GitHub Actions.
       
       * Support of a micro-service based platform including build and deployment processes, as well as post deployment support and operations in environments.
       
