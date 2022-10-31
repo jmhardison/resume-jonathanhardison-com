@@ -1,6 +1,6 @@
 - company: Jack Henry & Associates, Inc.
   roles:
-    - role: Software Engineer, Sr.
+    - role: Staff Software Engineer
       details: "* Support and Maintain a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
       
       * Support and operate secondary CI/CD platforms including Azure DevOps and GitHub Actions.
@@ -17,7 +17,9 @@
       
       * Support and enhance slack bots used for automation, or operations tasks including writing additional code in Go.
       
-      * Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments.
+      * Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments and GCP Hierarchy.
+
+      * Evaluation and work to incorporate ArgoCD into CI/CD platform.
       
       * Take part in on-call rotation for after hours support of critical financial systems environment."
       date: "Jul 2021 - Present"
