@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/profile.PNG
   Contacts:
     - Icon: fas fa-phone
-      Info: +1 ‪‪(417) 319-1395‬
+      Info: +1 (417) 319-1395
     - Icon: fas fa-envelope
       Info: resume@jonathanhardison.com
     - Icon: fas fa-globe
@@ -18,7 +18,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Missouri, United States
 
-Profile: Success-driven IT professional skilled in the design, installation, and maintenance of computers, networks, and servers. Outstanding client relationship skills with a commitment to providing the highest level of customer service. Proven ability to work well independently with minimal supervision. History of producing quality work in fast-paced environments. Committed to ongoing professional growth. Skilled trainer and project leader; able to master innovative software and platforms. Seeking position to apply skills and knowledge to the entire system stack, and drive forward modern concepts including cloud architecture and automation.
+Profile: Highly skilled cloud and automation IT professional with a track record of success in designing, installing, and maintaining infrastructure, automation, and cloud environments. Exceptional client relationship skills and a strong commitment to delivering exceptional service. Proven ability to work independently and produce quality work in fast-paced environments. Committed to ongoing professional growth and skilled at training and leading projects, including mastering new software and platforms. Seeking a position to utilize my skills and knowledge to drive forward modern concepts in the entire system stack.
 
 Experience:
   - Employer: Jack Henry & Associates, Inc.
@@ -28,16 +28,17 @@ Experience:
         Date: Jul 2021 - Present
         Details:
           - Support and Maintan a large Jenkins environment multiple agent types consisting of VM's and Containers, in multiple cloud providers.
-          - Support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
-          - Support of a micro-service based platform including build and deployment processes, as well as post deployment support and operations in environments.
-          - Provide operations support of a multi cloud environment including Azure, AWS, and on-premises datacenters running VMWare.
-          - Support and Maintain Artifactory environment provided as a service to multiple business units.
+          - Implement, support and operate secondary CI/CD platforms including Azure DevOps and Github Actions.
+          - Support of a distributed micro-service based platform including build, deployment, processes, as well as day-2 support and operations.
+          - Provide implementation and operations support of a multi-cloud environment using Azure, AWS, GCP, and on-premises datacenters running VMWare.
+          - Support and Maintain JFrog Artifactory environment provided as a service to multiple business units.
           - Provide continued engineering and architecutre guidance for Azure and VMware across multiple business units.
           - Research an enhance automation and deployment pipelines to include new technology that displaces old methods for management, and improve processes and capabilities of automation platform for full lifecycle deployment.
           - Support and enhance slack bots used for automation, or operations tasks including writing additional code in Go.
-          - Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments.
+          - Support and Maintain large IaC using Terraform for instantiation and support, with Chef for ongoing mutation of existing environments.
+          - Support and maintain legacy systems such as Marathon/Mesos.
           - Take part in on-call rotation for after hours support of critical financial systems environment.
-        Badges: ['Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'Go', 'DevOps', 'CI/CD']
+        Badges: ['Automation', 'Terraform', 'Azure', 'Cloud Architecture', 'Go', 'DevOps', 'CI/CD', 'Kubernetes']
   - Employer: Jack Henry & Associates, Inc.
     Place: Springfield, MO
     Positions:
@@ -66,7 +67,7 @@ Experience:
         Details:
           - Wrote and administered training for new versions of the platform, including lab design and scenario testing.
           - Implemented standardized vendor testing for new third party integrator to help reduce common first time consumer mistakes, and increase customer satisfaction.
-          - Worked with third parties to assist in consuming exposed API’s, knowledge, and testing for approval to sell to customer base.
+          - Worked with third parties to assist in consuming exposed API's, knowledge, and testing for approval to sell to customer base.
           - Provided application testing procedures to identify performance issues with core integration and real time wires platforms.
         Badges: ['Middleware', 'Windows', 'Support', 'Install', 'Developer Advocate']
   - Employer: Computer Information Systems
