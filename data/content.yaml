@@ -146,18 +146,16 @@ Skills:
   - Family: Platforms
     Items:
       - Azure
-      - AWS
       - GCP
+      - AWS
       - Azure Stack
-      - VMware - vSphere
-      - VMware - vCloud Director
+      - VMware
       - Cloudflare
   - Family: Kubernetes Platforms
     Items:
       - AKS
       - GKE
-      - Anthos - GKE
-      - Anthos - VMware
+      - Anthos
 
 Languages:
   - Name: English
