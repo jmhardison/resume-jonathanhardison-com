@@ -17,9 +17,13 @@
       
       * Support and enhance slack bots used for automation, or operations tasks including writing additional code in Go.
       
-      * Support and Maintain large infrastructure-as-code using Terraform for instantiation and support, and Chef for ongoing mutation of existing environments and GCP Hierarchy.
+      * Support and Maintain large Infrastructure-as-Code (IaC) using Terraform, and Chef for ongoing config management of existing environments.
+
+      * Implement foundation automation pipelines and IaC processes for Google Cloud implementation.
 
       * Evaluation and work to incorporate ArgoCD into CI/CD platform.
+
+      * Provide mentorship to other engineers are part of tech lead responsibilities.
       
       * Take part in on-call rotation for after hours support of critical financial systems environment."
       date: "Jul 2021 - Present"

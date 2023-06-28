@@ -50,6 +50,7 @@ languages:
 
 
 certificates:
+  - title: "Microsoft Certified: Azure Administrator Associate - 1753103"
   - title: "ITIL Foundation v3"
   - title: "KCS Principles v5"
   - title: "Docker Certified Associate (prior)"
