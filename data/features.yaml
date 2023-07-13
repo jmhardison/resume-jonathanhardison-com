@@ -21,19 +21,19 @@ about:
 skills:
   - groupName: Programming
     list:
-      - C++, C#, NodeJS, Javascript, Python, Unity3D
+      - Python, NodeJS, Javascript, C++, C#, Unity3D
 
   - groupName: Automation
     list:
-      - Terraform, Ansible, Chef, Azure DevOps, Github Actions, Jenkins, Canonical MaaS
+      - Terraform, Jenkins, Github Actions, Chef, Azure DevOps, Ansible, Canonical MaaS
 
   - groupName: Developer Tools
     list:
-      - Github, GitLab, Snyk, Aqua, DataDog, Honecomb, Docker, Hashicorp Vault
+      - DataDog, Honeycomb, Docker, Hashicorp Vault, Git, GitHub Dependabot, Snyk, Aqua
 
   - groupName: Platforms
     list:
-      - Azure, Azure Stack, AWS, GCP, Cloudflare, VMware vSphere, VMware vCloud Director
+      - Azure, Azure Stack, GCP, Cloudflare, AWS, VMware vSphere, VMware vCloud Director
 
   - groupName: Kubernetes Platforms
     list:
