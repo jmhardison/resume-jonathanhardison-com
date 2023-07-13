@@ -15,29 +15,29 @@ about:
       url: https://github.com/jmhardison
       icon: fab fa-github
   details: |
-    Highly skilled cloud and automation IT professional skilled in designing, installing, and maintaining infrastructure, automation, and cloud environments Exceptional client relationship skills with a commitment to providing the highest level of customer service. Proven ability to work well independently with minimal supervision. History of producing quality work in fast-paced environments. Committed to ongoing professional growth. Skilled trainer and project leader; able to master innovative software and platforms while working in the bleeding-edge.
+    Cloud and DevOps professional skilled in design, engineering, and architecture of infrastructure, automation, and cloud environments. Exceptional client relationship skills with a commitment to providing the highest level of service. Proven ability to work well independently with minimal supervision and a history of producing quality work in fast-paced environments. Mentor and project leader; able to master innovative software and platforms while working in the bleeding-edge.
     
 
 skills:
   - groupName: Programming
     list:
-      - C++, C#, NodeJS, Javascript, Unity3D
+      - Python, NodeJS, Javascript, C++, C#, Unity3D
 
   - groupName: Automation
     list:
-      - Terraform, Ansible, Chef, Azure DevOps, Github Actions, Jenkins, Canonical MaaS
+      - Terraform, Jenkins, Github Actions, Chef, Azure DevOps, Ansible, Canonical MaaS
 
   - groupName: Developer Tools
     list:
-      - Github, GitLab, Snyk, Aqua
+      - DataDog, Honeycomb, Docker, Hashicorp Vault, Git, GitHub Dependabot, Snyk, Aqua
 
   - groupName: Platforms
     list:
-      - Azure, Azure Stack, AWS, GCP, Cloudflare, VMware vSphere, VMware vCloud Director
+      - Azure, Azure Stack, GCP, Cloudflare, AWS, VMware vSphere, VMware vCloud Director
 
   - groupName: Kubernetes Platforms
     list:
-      - AKS, GKE, Anthos GKE, Anthos VMware
+      - AKS, GKE, Anthos GKE
 
 interests:
   - Gaming
@@ -53,13 +53,13 @@ certificates:
   - title: "Microsoft Certified: Azure Administrator Associate - 1753103"
   - title: "ITIL Foundation v3"
   - title: "KCS Principles v5"
-  - title: "Docker Certified Associate (prior)"
-  - title: "MCSE (NT4/2000/2003) - 1753103 (prior)"
-  - title: "MCSA (2000/2003) - 1753103 (prior)"
-  - title: "CCNA - CSCO10414355 (prior)"
-  - title: "CCDA - CSCO10414355 (prior)"
-  - title: "CCEA - CTX141469 (prior)"
-  - title: "ACA (prior)"
+  # - title: "Docker Certified Associate (prior)"
+  # - title: "MCSE (NT4/2000/2003) - 1753103 (prior)"
+  # - title: "MCSA (2000/2003) - 1753103 (prior)"
+  # - title: "CCNA - CSCO10414355 (prior)"
+  # - title: "CCDA - CSCO10414355 (prior)"
+  # - title: "CCEA - CTX141469 (prior)"
+  # - title: "ACA (prior)"
 
 #  - title: "Supervised Learning: Classification"
 #    subtitle: Coursera
