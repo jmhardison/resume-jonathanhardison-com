@@ -37,7 +37,7 @@ skills:
 
   - groupName: Kubernetes Platforms
     list:
-      - AKS, GKE, Anthos GKE, Rancher
+      - AKS, GKE, Anthos GKE
 
 interests:
   - Gaming
