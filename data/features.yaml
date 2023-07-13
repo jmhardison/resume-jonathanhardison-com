@@ -21,7 +21,7 @@ about:
 skills:
   - groupName: Programming
     list:
-      - C++, C#, NodeJS, Javascript, Unity3D
+      - C++, C#, NodeJS, Javascript, Python, Unity3D
 
   - groupName: Automation
     list:
@@ -29,7 +29,7 @@ skills:
 
   - groupName: Developer Tools
     list:
-      - Github, GitLab, Snyk, Aqua
+      - Github, GitLab, Snyk, Aqua, DataDog, Honecomb, Docker, Hashicorp Vault
 
   - groupName: Platforms
     list:
@@ -37,7 +37,7 @@ skills:
 
   - groupName: Kubernetes Platforms
     list:
-      - AKS, GKE, Anthos GKE, Anthos VMware
+      - AKS, GKE, Anthos GKE, Rancher
 
 interests:
   - Gaming
