@@ -53,7 +53,7 @@ params:
     - custom.scss
 #   - print_urls.scss
   header:
-    avatar: avatar.jpeg
+   # avatar: avatar.jpeg
     contact: true
     tagline: true
     links: false
